@@ -3,6 +3,7 @@
 
 > [!NOTE]
 > Deutsche Dokumentation: [docs/de/index.md](docs/de/index.md)
+>
 > [!NOTE]
 > English README: [README.en.md](README.en.md)
 > English Documentation: [docs/en/index.md](docs/en/index.md)
