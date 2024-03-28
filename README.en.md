@@ -23,8 +23,8 @@ The GiantsBeaconApp is a tool for controlling the Giant Software USB beacon (rot
 
 > [!TIP]
 > The Beacon can be purchased here, for example:
-> [Giants Amazon Store[https://amzn.to/3TVB6Tp]]
-> [Beacon[https://amzn.to/4ctbZzL]]
+> [Giants Amazon Store](https://amzn.to/3TVB6Tp)
+> [Beacon](https://amzn.to/4ctbZzL)
 > *Amazon Affiliate Links: if you buy the Beacon via this link, you support me and my project.* 🙏
 
 ## How the beacon works
@@ -62,7 +62,8 @@ The settings are saved in a config.json file.
 ## Thanks
 Many thanks to everyone who supports this project and provides feedback. 🙏
 
-🤗 Special thanks to @Microgenital for the original Python script that served as the basis for this project [Original Repository[https://github.com/Microgenital/Giants_Software_USB_Beacon/]] 👍
+🤗 Special thanks to @Microgenital for the original Python script that served as the basis for this project
+[Original Repository](https://github.com/Microgenital/Giants_Software_USB_Beacon/) 👍
 Danke auch an Giant Software dass sie so ein cooles Produkt entwickelt haben. 🚜🚨
 
 > [!NOTE]

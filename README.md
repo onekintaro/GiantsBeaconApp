@@ -23,8 +23,8 @@ Das ganze soll zum einen die Steuerung ohne LS ermöglichen und zum anderen auch
 
 > [!TIP]
 > Der Beacon kann zB hier gekauft werden:
-> [Giants Amazon Store[https://amzn.to/3TVB6Tp]]
-> [Beacon[https://amzn.to/4ctbZzL]]
+> - [Giants Amazon Store](https://amzn.to/3TVB6Tp)
+> - [Beacon](https://amzn.to/4ctbZzL)
 > *Amazon Affiliate Links: falls du den Beacon über diesen Link kaufst, unterstützt du mich und mein Projekt.* 🙏
 
 ## Funktionsweise des Beacons
@@ -63,7 +63,7 @@ Die Einstellungen werden in einer config.json-Datei gespeichert.
 Vielen dank an alle, die dieses Projekt unterstützen und Feedback geben. 🙏
 
 🤗 Ein Besonderer Dank geht an @Microgenital für das ursprüngliche Python-Script, das als Grundlage für dieses Projekt diente.
-[Original Repository[https://github.com/Microgenital/Giants_Software_USB_Beacon/]] 👍
+[Original Repository](https://github.com/Microgenital/Giants_Software_USB_Beacon/) 👍
 
 Danke auch an Giant Software dass sie so ein cooles Produkt entwickelt haben. 🚜🚨
 
