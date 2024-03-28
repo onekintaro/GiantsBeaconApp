@@ -25,6 +25,7 @@ The GiantsBeaconApp is a tool for controlling the Giant Software USB beacon (rot
 > The Beacon can be purchased here, for example:
 > [Giants Amazon Store](https://amzn.to/3TVB6Tp)
 > [Beacon](https://amzn.to/4ctbZzL)
+>
 > *Amazon Affiliate Links: if you buy the Beacon via this link, you support me and my project.* 🙏
 
 ## How the beacon works

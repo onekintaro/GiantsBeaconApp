@@ -25,6 +25,7 @@ Das ganze soll zum einen die Steuerung ohne LS ermöglichen und zum anderen auch
 > Der Beacon kann zB hier gekauft werden:
 > - [Giants Amazon Store](https://amzn.to/3TVB6Tp)
 > - [Beacon](https://amzn.to/4ctbZzL)
+>
 > *Amazon Affiliate Links: falls du den Beacon über diesen Link kaufst, unterstützt du mich und mein Projekt.* 🙏
 
 ## Funktionsweise des Beacons
